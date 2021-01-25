@@ -1,0 +1,1 @@
+{:name=>"Noel", :date=>"25/12/2021 00:00:00", :duration=>"41", :attendees=>["ma_maman@gmail.com", "ma_soeur@gmail.com", "moi@moi.com"]}&{:name=>"Pause dej", :date=>"25/12/2021 00:00:00", :duration=>"20", :attendees=>["caro@gmail.com", "day@gmail.com", "romain@gmail.com"]}&{:name=>"Salut", :date=>"06/12/1962 00:00:00", :duration=>"20", :attendees=>["a", "b"]}&
